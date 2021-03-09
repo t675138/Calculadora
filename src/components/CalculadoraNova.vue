@@ -1,6 +1,7 @@
 <template>
     <div class="Calculadora-Nova">
-        <h1> Calculadora Nova </h1>
+        <h1> Calculadora Nova !!! </h1>
+        <p> Oi </p>
         
     </div>
 </template>
